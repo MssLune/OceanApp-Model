@@ -17,11 +17,9 @@ Nota; este producto solo durará unas horas ya que esta limitado por el uso de g
 Como en nuestro caso, deseamos tener el modelo en la nube de forma permanente y gratuita, estamos realizando el deploy en HuggingFace, el código se encuentra libre en la misma plataforma [Link Deploy](https://huggingface.co/spaces/hexenbiest/OceanApp)
 # Citación
 Este proyecto de tesis universitario se realizó gracias al aporte de:
-```
 Trampas Barceló: Detección y monitoreo a tiempo real del mosquito Aedes aegypti [Link al White Paper](https://docs.google.com/presentation/d/1T5CdcLSzgRe8cQpoi_sPB4U170551NGOrZNykcJD0xU/edit?usp=sharing),
 Autores: Riat, César  and Schieder, Mario.
 2021
-}
-```
+
 # Contacto 
 Para mas información, favor de contactarse al correo electrónico u202020275@upc.edu.pe.
