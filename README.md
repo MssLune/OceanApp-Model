@@ -4,7 +4,7 @@ Este sistema tiene como objetivo realizar la identificación de dos principales 
 
 # Entrenamiento
 ## 1)Base de datos:
-Esta base de datos actualmente se encuentra subida en Google Drive, en formato .zip y en carpeta. La base de datos se irá actualizando a medida que avance el proyecto  y pueda ser escalable [click para revisar el artículo del proyecto].(https://drive.google.com/file/d/1_DBkt7YAei8rbQK5Nzvezl0AF4G7x9RF/view?usp=sharing)
+Esta base de datos actualmente se encuentra subida en Google Drive, en formato .zip y en carpeta. La base de datos se irá actualizando a medida que avance el proyecto  y pueda ser escalable [click para revisar el artículo del proyecto](https://drive.google.com/file/d/1_DBkt7YAei8rbQK5Nzvezl0AF4G7x9RF/view?usp=sharing) .
 Para este caso en particular, se esta tomando un total de 993 imagenes de entrenamiento y 248 para la validación, haciendo uso de la técnica 80%-20%.
 ## 2)Entrenamiento en la Nube
 Actualmente se esta haciendo uso de google colab, debido a que proporciona una maquina virtual gratuita por unas horas, por lo que, se realizó el archivo I_Train_OceanApp YOLOv5.ipynb, también puede revisarse directamente en [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zn7WAplrncgc4dnmUqBwAs39rTaNAJ9F?usp=sharing). Por otro lado, en el mismo proyecto, se debe subir el archivo customcoco128drive.yaml dentro de la carpeta yolov5/data, ya que, nos ayudará a coordinar la información del etiquetado con el entrenamiento de Yolov5 .
