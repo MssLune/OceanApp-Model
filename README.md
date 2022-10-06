@@ -1,6 +1,6 @@
 # OceanApp
 Este sistema tiene como objetivo realizar la identificación de dos principales especies en la pesca incidental por cerco, tales como el lobo marino y el pelicano. [Para más información, click aquí](https://docs.google.com/presentation/d/1T5CdcLSzgRe8cQpoi_sPB4U170551NGOrZNykcJD0xU/edit?usp=sharing)
-![DemoOceanApp](https://previews.dropbox.com/p/thumb/ABo3eIFyCfUwb9wUC4t623QNZ0mUTFTG2pygkvjvhhEQ5GQwcfntJ2C12KqUdNTxFalh72EwSgqhbppFgfeMoWqsWm1mEhTrJmJO_ve7Vt2vroMWwSwYc3ofRvEMfz0pYRTOzwTHj3W6h_b_NoiGgfhtn7Quq45nZ-r-pKL65diFtNLe2YelZQTHD84RyxvWgnjGX2-GcAqmyPFoXwmpeSEeONFg1H_e0tmbGeR64MbtpSokflMjxEpduBNMi-IwyJZxzspxle_qRtq9qGv2gUEAAHi2mL7B-djwEi36W5Kal8nRbYsohiSTFKioQ9Crg5l2NWNNkw-uS7gy6KwkTRS9NtsNcACs_QdhS-LB0obN-Y-EdPTUodbXRSNPFYBhFpw/p.png)
+![DemoOceanApp](https://i.pinimg.com/564x/3e/b8/f7/3eb8f7c348dffd7b3dffcafe81fbf2a6.jpg)
 
 # Entrenamiento
 ## 1)Base de datos:
