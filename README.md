@@ -14,7 +14,7 @@ Finalmente, la red entrenada generará una archivo llamado best.pt, que se encue
 Para hacer un puesta en producción rápida pero limitada, se realizará el deploy en Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0T8gdLIa0X8fzkIgFpXDoU27BF49RUz?usp=sharing), en la que, se deberá subir el archivo mencionado en el punto anterior (best.pt) que viene a ser la red entrenada del modelo.
 Nota; este producto solo durará unas horas ya que esta limitado por el uso de google colab
 ## 2) HugginFace:
-Como en nuestro caso, deseamos tener el modelo en la nube de forma permanente y gratuita, estamos realizando el deploy en HuggingFace, el código se encuentra libre en la misma plataforma [Link Deploy](https://huggingface.co/spaces/hexenbiest/OceanApp)
+Como en nuestro caso, deseamos tener el modelo en la nube de forma permanente y gratuita, estamos realizando el deploy en HuggingFace, el código se encuentra libre en la misma plataforma [Link Deploy](https://hf.space/embed/hexenbiest/OceanApp/+?__theme=light)
 # Citación
 Este proyecto de tesis universitario se realizó gracias al aporte de:
 Trampas Barceló: Detección y monitoreo a tiempo real del mosquito Aedes aegypti [Link al White Paper](https://docs.google.com/presentation/d/1T5CdcLSzgRe8cQpoi_sPB4U170551NGOrZNykcJD0xU/edit?usp=sharing),
